@@ -127,16 +127,7 @@ Full Stack Dev ─────────────────────�
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=het2025&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=het2025&theme=tokyonight&hide_border=true" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=het2025&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</div>
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=het2025&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </div>
 
 ---
